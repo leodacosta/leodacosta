@@ -8,8 +8,8 @@ I am a fan of the areas of Design and Technology, and I am increasingly looking 
 
 * 🌍  I'm based in São Paulo / Brazil
 * 🖥️  See my portfolio at [My Portfolio on PT-BR](https://portfolio-react-rosy-alpha.vercel.app/)
-* ✉️  You can contact me at [leodacosta1996@gmail.com](mailto:leodacosta1996@gmail.com)
-* 🧠  I'm learning UX/UI Design
+* ✉️  You can also contact me at [leodacosta1996@gmail.com](mailto:leodacosta1996@gmail.com)
+* 🧠  I'm currently learning UX/UI Design
 * 🤝  I'm open to collaborating on everything! Contact me
 * ⚡  A diehard Liverpool fan!
 
